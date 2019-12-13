@@ -1,4 +1,4 @@
-package com.runqing.security;
+package com.runqing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
